@@ -5,6 +5,6 @@
 </head>
 <body>
     <h1>Welcome to Spring MVC!</h1>
-    <p>Message: ${message}</p>
+    <p>Message: ${msg}</p>
 </body>
 </html>
